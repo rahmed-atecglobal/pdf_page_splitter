@@ -1,0 +1,1 @@
+.env\Scripts\python.exe pdf_page_splitter.py
